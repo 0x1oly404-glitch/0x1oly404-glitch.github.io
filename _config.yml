@@ -7,13 +7,13 @@ title: 我的博客
 subtitle: ''
 description: ''
 keywords:
-author: 你的名字
+author: 0x1oly404-glitch
 language: zh-CN
 timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://USERNAME.github.io/REPO
+url: https://0x1oly404-glitch.github.io
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
