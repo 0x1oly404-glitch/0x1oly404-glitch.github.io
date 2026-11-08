@@ -1,0 +1,241 @@
+[
+  {
+    "query": "data.iana.org",
+    "query_type": "A",
+    "checked_at": "2026-11-08T18:46:37.5617962+08:00",
+    "records": [
+      {
+        "Name": "data.iana.org",
+        "Type": 5,
+        "IPAddress": null,
+        "NameHost": "data.iana.org.cdn.cloudflare.net"
+      },
+      {
+        "Name": "data.iana.org.cdn.cloudflare.net",
+        "Type": 1,
+        "IPAddress": "104.18.25.232",
+        "NameHost": null
+      },
+      {
+        "Name": "data.iana.org.cdn.cloudflare.net",
+        "Type": 1,
+        "IPAddress": "104.18.24.232",
+        "NameHost": null
+      }
+    ]
+  },
+  {
+    "query": "data.iana.org",
+    "query_type": "AAAA",
+    "checked_at": "2026-11-08T18:46:37.6101944+08:00",
+    "records": [
+      {
+        "Name": "data.iana.org",
+        "Type": 5,
+        "IPAddress": null,
+        "NameHost": "data.iana.org.cdn.cloudflare.net"
+      },
+      {
+        "Name": "data.iana.org.cdn.cloudflare.net",
+        "Type": 28,
+        "IPAddress": "2606:4700::6812:18e8",
+        "NameHost": null
+      },
+      {
+        "Name": "data.iana.org.cdn.cloudflare.net",
+        "Type": 28,
+        "IPAddress": "2606:4700::6812:19e8",
+        "NameHost": null
+      }
+    ]
+  },
+  {
+    "query": "ftp.iana.org",
+    "query_type": "A",
+    "checked_at": "2026-11-08T18:46:38.0566814+08:00",
+    "records": [
+      {
+        "Name": "ftp.iana.org",
+        "Type": 5,
+        "IPAddress": null,
+        "NameHost": "ianaftp.vip.icann.org"
+      },
+      {
+        "Name": "ianaftp.vip.icann.org",
+        "Type": 1,
+        "IPAddress": "192.0.32.8",
+        "NameHost": null
+      }
+    ]
+  },
+  {
+    "query": "ftp.iana.org",
+    "query_type": "AAAA",
+    "checked_at": "2026-11-08T18:46:38.3805400+08:00",
+    "records": [
+      {
+        "Name": "ftp.iana.org",
+        "Type": 5,
+        "IPAddress": null,
+        "NameHost": "ianaftp.vip.icann.org"
+      },
+      {
+        "Name": "ianaftp.vip.icann.org",
+        "Type": 28,
+        "IPAddress": "2620:0:2d0:200::8",
+        "NameHost": null
+      }
+    ]
+  },
+  {
+    "query": "int.iana.org",
+    "query_type": "A",
+    "checked_at": "2026-11-08T18:46:38.7722986+08:00",
+    "records": []
+  },
+  {
+    "query": "int.iana.org",
+    "query_type": "AAAA",
+    "checked_at": "2026-11-08T18:46:39.1090538+08:00",
+    "records": [
+      {
+        "Name": "int.iana.org",
+        "Type": 5,
+        "IPAddress": null,
+        "NameHost": "ianaintranet.int.vip.icann.org"
+      }
+    ]
+  },
+  {
+    "query": "pen.iana.org",
+    "query_type": "A",
+    "checked_at": "2026-11-08T18:46:39.5003431+08:00",
+    "records": [
+      {
+        "Name": "pen.iana.org",
+        "Type": 5,
+        "IPAddress": null,
+        "NameHost": "pen.iana.org.cdn.cloudflare.net"
+      },
+      {
+        "Name": "pen.iana.org.cdn.cloudflare.net",
+        "Type": 1,
+        "IPAddress": "104.18.25.232",
+        "NameHost": null
+      },
+      {
+        "Name": "pen.iana.org.cdn.cloudflare.net",
+        "Type": 1,
+        "IPAddress": "104.18.24.232",
+        "NameHost": null
+      }
+    ]
+  },
+  {
+    "query": "pen.iana.org",
+    "query_type": "AAAA",
+    "checked_at": "2026-11-08T18:46:39.7409191+08:00",
+    "records": [
+      {
+        "Name": "pen.iana.org",
+        "Type": 5,
+        "IPAddress": null,
+        "NameHost": "pen.iana.org.cdn.cloudflare.net"
+      },
+      {
+        "Name": "pen.iana.org.cdn.cloudflare.net",
+        "Type": 28,
+        "IPAddress": "2606:4700::6812:18e8",
+        "NameHost": null
+      },
+      {
+        "Name": "pen.iana.org.cdn.cloudflare.net",
+        "Type": 28,
+        "IPAddress": "2606:4700::6812:19e8",
+        "NameHost": null
+      }
+    ]
+  },
+  {
+    "query": "www.iana.org",
+    "query_type": "A",
+    "checked_at": "2026-11-08T18:46:39.7685037+08:00",
+    "records": [
+      {
+        "Name": "www.iana.org",
+        "Type": 5,
+        "IPAddress": null,
+        "NameHost": "www.iana.org.cdn.cloudflare.net"
+      },
+      {
+        "Name": "www.iana.org.cdn.cloudflare.net",
+        "Type": 1,
+        "IPAddress": "104.18.24.232",
+        "NameHost": null
+      },
+      {
+        "Name": "www.iana.org.cdn.cloudflare.net",
+        "Type": 1,
+        "IPAddress": "104.18.25.232",
+        "NameHost": null
+      }
+    ]
+  },
+  {
+    "query": "www.iana.org",
+    "query_type": "AAAA",
+    "checked_at": "2026-11-08T18:46:39.8437790+08:00",
+    "records": [
+      {
+        "Name": "www.iana.org",
+        "Type": 5,
+        "IPAddress": null,
+        "NameHost": "www.iana.org.cdn.cloudflare.net"
+      },
+      {
+        "Name": "www.iana.org.cdn.cloudflare.net",
+        "Type": 28,
+        "IPAddress": "2606:4700::6812:18e8",
+        "NameHost": null
+      },
+      {
+        "Name": "www.iana.org.cdn.cloudflare.net",
+        "Type": 28,
+        "IPAddress": "2606:4700::6812:19e8",
+        "NameHost": null
+      }
+    ]
+  },
+  {
+    "query": "rzm.iana.org",
+    "query_type": "A",
+    "checked_at": "2026-11-08T18:46:40.2400996+08:00",
+    "records": [
+      {
+        "Name": "rzm.iana.org",
+        "Type": 5,
+        "IPAddress": null,
+        "NameHost": "ianarzm.vip.icann.org"
+      },
+      {
+        "Name": "ianarzm.vip.icann.org",
+        "Type": 1,
+        "IPAddress": "192.0.33.87",
+        "NameHost": null
+      }
+    ]
+  },
+  {
+    "query": "rzm.iana.org",
+    "query_type": "AAAA",
+    "checked_at": "2026-11-08T18:46:40.5108572+08:00",
+    "records": [
+      {
+        "Name": "rzm.iana.org",
+        "Type": 5,
+        "IPAddress": null,
+        "NameHost": "ianarzm.vip.icann.org"
+      }
+    ]
+  }
+]
